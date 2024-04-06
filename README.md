@@ -1,4 +1,4 @@
-# -Post-Graduation-in-Data-Science
+# Data-Science
 
 All the works in this repository were carried out during the postgraduate studies in Data Science. These projects covered a range of subjects, highlighting the diverse skills and knowledge gained during the program.
 
